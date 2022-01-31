@@ -7,7 +7,7 @@ const App = () => {
     <Router>
       <Switch>
         <Route path="/">
-          <h1>Hello template</h1>
+          <h1>Hello react TS template</h1>
         </Route>
       </Switch>
     </Router>
